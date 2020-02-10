@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0px;
+}
+html {
+  font-family: "Karla", sans-serif;
+  font-size: 16px;
+}
+/* common styles */
+/* .cm {
+  margin: 20px 15px;
+} */
+h2 {
+  font-size: 1.2rem;
+}
+/* join our community styles */
+.joc {
+  /* background-color: red; */
+  padding-left: 20px;
+  padding-right: 11px;
+  width: 100vw;
+  height: 33vh;
+}
+.joc h1 {
+  color: hsl(179, 62%, 43%);
+  margin-bottom: 1.3rem;
+  margin-top: 20px;
+}
+.joc h2 {
+  color: hsla(70, 32%, 26%, 0.856);
+  margin-bottom: 1.3rem;
+}
+.joc p {
+  max-width: 95%;
+  color: rgb(172, 171, 171);
+  padding-bottom: 14px;
+}
+
+.ms {
+  background-color: hsl(179, 62%, 43%);
+  width: 100vw;
+  height: 35vh;
+
+  padding-left: 10px;
+}
+.ms h2 {
+  color: hsla(203, 44%, 93%, 0.849);
+  padding-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 25px;
+}
+
+.ms span {
+  padding-left: 20px;
+  font-size: 2rem;
+  color: white;
+}
+.ms p {
+  color: white;
+}
+
+.ms button {
+  height: 45px;
+  width: 70%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  background-color: hsl(71, 73%, 54%);
+  color: rgb(248, 248, 248);
+  font-size: medium;
+  border-radius: 1rem;
+}
+
+.why-us {
+  background-color: rgba(27, 183, 189, 0.616);
+  /* margin-bottom: 5px; */
+  width: 100vw;
+  height: 38vh;
+}
+
+.why-us h2 {
+  padding-top: 27px;
+  padding-left: 35px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.why-us div {
+  margin-top: 5px;
+  margin-left: 35px;
+  margin-bottom: 5px;
+  color: grey;
+}
